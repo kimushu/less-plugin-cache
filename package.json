@@ -2,7 +2,7 @@
   "name": "less-plugin-cache",
   "version": "1.0.0",
   "description": "Cache plugin for less-css",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "crypto": "^0.0.3",
     "promise": "^7.1.1"
