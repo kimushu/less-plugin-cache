@@ -1,0 +1,27 @@
+{
+  "name": "less-plugin-cache",
+  "version": "1.0.0",
+  "description": "Cache plugin for less-css",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimushu/less-plugin-cache.git"
+  },
+  "keywords": [
+    "less plugins"
+  ],
+  "author": "kimushu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kimushu/less-plugin-cache/issues"
+  },
+  "homepage": "https://github.com/kimushu/less-plugin-cache#readme"
+}
